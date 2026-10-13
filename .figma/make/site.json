@@ -1,0 +1,10 @@
+{
+  "description": "Engage with trending topics through concise posts in a short-form blogging platform designed for quick sharing and real-time conversations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
